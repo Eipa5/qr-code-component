@@ -1,4 +1,8 @@
 # Frontend Mentor - QR code component solution
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0335e1f4608a0d6ddfe449a64dffa557f73c38f3
 ## Table of contents
 
 - [Overview](#overview)
@@ -7,6 +11,7 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+<<<<<<< HEAD
 
 
 ## Overview
