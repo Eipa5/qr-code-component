@@ -1,7 +1,5 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -14,14 +12,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
+- 
 ## Overview
-
+This project consisting of creating a visually appealing qr-component from barebones html. With my solution it required the use of flexbox and other foundational css elements. Completing this project has helped with furthering my understanding as well as developing my practical skills in html and css.
 ### Screenshot
 
-![](./screenshot.jpg)
+![](<img width="949" alt="Screenshot 2024-03-27 134044" src="https://github.com/Eipa5/qr-code-component/assets/99437924/a327845d-21e5-49f5-bac8-f779b37af862">)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
